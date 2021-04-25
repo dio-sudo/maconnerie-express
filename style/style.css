@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 575.98px)
+{
+  #baniere{
+    position: relative;
+    margin-top: 60px;
+    height: 185px;
+    /* background-image: url('../img/path1249-min.png'); */
+    background-image: url('../img/enduit.jpg');
+    /* background-color: gainsboro; */
+    /* background-size: 70%; */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  #cards{
+    margin-top: 20px;
+  }
+
+  #baniere-text p{
+    text-align: center;
+    font-size: 2em;
+    padding: 35px 0px;
+    color: black;
+  }
+
+  .card{
+    /* padding: 10px 39px; */
+    width: 80%;
+    height: 250px;
+    margin: 5px auto;
+  }
+
+  .card-icon{
+    text-align: center;
+    margin: 10px 0;
+    padding: 20px;
+  }
+
+  .card-text{
+    text-align: center;
+    margin: 5px 0;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 767.98px)
+{
+  #baniere{
+    position: relative;
+    height: 450px;
+    background-image: url('../img/express-baniere-min.png');
+    /* background-size: 80%; */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .navbar-collapse{
+    flex-grow: unset;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 991.98px) 
+{
+  #baniere{
+    position: relative;
+    height: 550px;
+    background-image: url('../img/express-baniere-min.png');
+    /* background-size: 80%; */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1199.98px)
+{
+  #baniere{
+    position: relative;
+    min-height: 690px;
+    background-image: url('../img/express-baniere-min.png');
+    /* background-size: 80%; */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .navbar-collapse{
+    flex-grow: unset;
+  }
+}
+
