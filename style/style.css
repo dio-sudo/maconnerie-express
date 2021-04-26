@@ -39,18 +39,27 @@ body{
   .card{
     /* padding: 10px 39px; */
     width: 80%;
-    height: 300px;
+    height: 350px;
     margin: 10px auto;
     border: 3px solid rgba(22, 80, 108, 1);
     border-radius: 1.25rem;
     box-shadow: 4px 5px 3px #16506c;
   }
 
+  .fa-hammer{
+    padding: 20%;
+  }
+
+  .fa-hard-hat{
+    padding: 20%;
+  }
+
   .card-icon{
     text-align: center;
     margin: 10px auto;
+    color: #3C6E71;
     padding: 20px;
-    border: solid 4px #16506c;
+    /* border: solid 4px #16506c; */
     width: 130px;
     border-radius: 50%;
     height: 130px;
