@@ -8,7 +8,7 @@ body{
 @media only screen and (max-width: 575.98px)
 {
   #baniere{
-    /* width: 100%; */
+    width: 95%;
     margin-top: 60px;
     /* height: 275px; */
     background-color: #353535;
