@@ -10,9 +10,9 @@ body{
   #baniere{
     /* position: relative; */
     margin-top: 60px;
-    /* height: 195px; */
-    background-color: #353535;
-    /* background-image: url('../img/path1249-min.png'); */
+    height: 195px;
+    /* background-color: #353535; */
+    background-image: url('../img/path1249-min.png');
     /* background-image: url('../img/enduit.jpg'); */
     /* background-size: 100%; */
     background-repeat: no-repeat;
