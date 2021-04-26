@@ -12,14 +12,14 @@ body{
     margin-top: 60px;
     height: 225px;
     /* background-color: #FFFFFF; */
-    background-image: url('../img/path1249-min.jpg');
+    background-image: url('../img/path1249-min.png');
     /* background-image: url('../img/enduit.jpg'); */
     background-size: 98%;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    border: solid 7px #FFFFFF;
-    border-radius: 20px;
+    /* border: solid 7px #FFFFFF; */
+    /* border-radius: 20px; */
   }
 
   #baniere img{
@@ -29,7 +29,7 @@ body{
   h1{
     text-align: center;
     /* background-color: rgba(217, 217, 217, 1); */
-    color: #284B68;
+    color: #353535;
   }
 
   #cards{
