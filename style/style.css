@@ -8,16 +8,20 @@ body{
 @media only screen and (max-width: 575.98px)
 {
   #baniere{
-    width: 100%;
-    margin-top: 30px;
+    /* width: 100%; */
+    margin-top: 56px;
     /* height: 275px; */
-    /* background-color: #353535; */
+    background-color: #353535;
     /* background-image: url('../img/path1249-min.jpg'); */
     /* background-image: url('../img/enduit.jpg'); */
     /* background-size: 95%; */
-    background-repeat: no-repeat;
-    background-position: center;
-    /* border-radius: 25px; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    border-radius: 10px;
+  }
+
+  #baniere img{
+    width: 100%;
   }
 
   h1{
@@ -31,10 +35,10 @@ body{
   }
 
   #baniere-text p{
-    text-align: center;
+    /* text-align: center;
     font-size: 2em;
     padding: 35px 0px;
-    color: #3C6E71;
+    color: #3C6E71; */
   }
 
   .card{
