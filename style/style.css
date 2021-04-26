@@ -8,13 +8,13 @@ body{
 @media only screen and (max-width: 575.98px)
 {
   #baniere{
-    /* position: relative; */
+    width: 100%;
     margin-top: 30px;
-    height: 275px;
+    /* height: 275px; */
     /* background-color: #353535; */
-    background-image: url('../img/path1249-min.jpg');
+    /* background-image: url('../img/path1249-min.jpg'); */
     /* background-image: url('../img/enduit.jpg'); */
-    background-size: 95%;
+    /* background-size: 95%; */
     background-repeat: no-repeat;
     background-position: center;
     /* border-radius: 25px; */
