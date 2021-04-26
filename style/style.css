@@ -9,12 +9,12 @@ body{
 {
   #baniere{
     /* position: relative; */
-    margin-top: 60px;
-    height: 205px;
+    margin-top: 27px;
+    height: 275px;
     /* background-color: #353535; */
     background-image: url('../img/path1249-min.jpg');
     /* background-image: url('../img/enduit.jpg'); */
-    background-size: 90%;
+    background-size: 95%;
     background-repeat: no-repeat;
     background-position: center;
     /* border-radius: 25px; */
