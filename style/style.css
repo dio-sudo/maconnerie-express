@@ -28,12 +28,14 @@ body{
 
   h1{
     text-align: center;
-    background-color: rgba(217, 217, 217, 1);
+    /* background-color: rgba(217, 217, 217, 1); */
     color: #353535;
   }
 
   #cards{
+    width: 80%;
     margin-top: 20px;
+    background-color: #353535;
   }
 
   #baniere-text p{
