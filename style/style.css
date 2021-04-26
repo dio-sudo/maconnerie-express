@@ -10,13 +10,14 @@ body{
   #baniere{
     /* position: relative; */
     margin-top: 60px;
-    height: 195px;
+    height: 205px;
     /* background-color: #353535; */
     background-image: url('../img/path1249-min.jpg');
     /* background-image: url('../img/enduit.jpg'); */
-    /* background-size: 100%; */
+    background-size: 98%;
     background-repeat: no-repeat;
     background-position: center;
+    /* border-radius: 25px; */
   }
 
   h1{
