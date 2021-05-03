@@ -3,6 +3,7 @@ body{
   padding: 0;
   /* background-image: url('../img/enduit.jpg'); */
   background-color: #ffffff;
+  line-height: 1.5;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -70,7 +71,8 @@ body{
     font-style: normal;
     font-family: serif;
     font-weight: bold;
-    background-color: #D9D9D9;
+    /* background-color: #D9D9D9; */
+    background-image: url('../img/enduit.jpg');
     color: #353535;
     padding: 30px;
     margin: 30px 0px;
