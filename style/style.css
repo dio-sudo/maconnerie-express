@@ -23,6 +23,18 @@ body{
     /* border-radius: 20px; */
   }
 
+  #slogan{
+    text-align: center;
+    font-size: 2em;
+    font-style: normal;
+    font-family: serif;
+    font-weight: bold;
+    background-color: #D9D9D9;
+    color: #353535;
+    padding: 30px;
+    margin: 30px 0px;
+  }
+
   #baniere img{
     width: 100%;
   }
