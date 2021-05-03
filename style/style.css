@@ -8,9 +8,50 @@ body{
 /* Small devices (landscape phones, 576px and up) */
 @media only screen and (max-width: 575.98px)
 {
+  nav{
+    background-color: #284B63;
+  }
+
+  .container-fluid{
+    padding-top: 10px;
+  }
+
+  .container-fluid a{
+    padding-top: 1.3125rem;
+    padding-bottom: 0px;
+  }
+
+  /* .navbar{
+    padding-top: 2em;
+    padding-bottom: .5rem;
+  } */
+
+  /* .navbar-brand {
+    color: #ffffff;
+  } */
+
+  .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    /* line-height: 1; */
+    background-color: #284B63;
+    border: 2px solid transparent;
+    border-color: #FFFFFF;
+    /* border-radius: .25rem; */
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    /* transition: box-shadow .15s ease-in-out; */
+  }
+
+  .navbar-dark .navbar-toggler {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    /* margin-bottom: 15px; */
+  }
+
   #baniere{
     width: 98%;
-    margin-top: 60px;
+    margin-top: 90px;
     height: 225px;
     /* background-color: #FFFFFF; */
     background-image: url('../img/image-fond1-min.png');
