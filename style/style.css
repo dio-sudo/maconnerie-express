@@ -1,7 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  background-image: url('../img/enduit.jpg');
+  /* background-image: url('../img/enduit.jpg'); */
+  background-color: #ffffff;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -12,7 +13,7 @@ body{
     margin-top: 60px;
     height: 225px;
     /* background-color: #FFFFFF; */
-    background-image: url('../img/path1249-min.png');
+    background-image: url('../img/image-fond1-min.png');
     /* background-image: url('../img/enduit.jpg'); */
     background-size: 98%;
     background-repeat: no-repeat;
@@ -36,7 +37,7 @@ body{
   #cards{
     width: 95%;
     margin-top: 20px;
-    background-color: #D9D9D9;
+    background-color: #353535;
     border-radius: 15px;
   }
 
